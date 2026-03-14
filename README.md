@@ -8,6 +8,4 @@ This repository contains my solutions, scripts, and notes for various TryHackMe 
 | :--- | :--- |
 | [XOR Cipher Challenge](./XOR-Cipher-Challenge) | Exploiting the `ORDER:` header vulnerability to recover secret keys. |
 
-## 📫 Contact
-* **LinkedIn:** [Min Thant Tun](https://www.linkedin.com/in/min-thant-tun-b76111294/)
-* **TryHackMe:** [MinThantTun](https://tryhackme.com/p/MinThantTun)
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/min-thant-tun-b76111294/) or follow my progress on [TryHackMe](https://tryhackme.com/p/MinThantTun).*
