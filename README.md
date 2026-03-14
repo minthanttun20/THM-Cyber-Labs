@@ -9,9 +9,9 @@ This repository contains my solutions, scripts, and notes for various TryHackMe 
 
 ## 🚀 Featured Write-ups
 
-Room Name | Solution Script |
+| Room Name |
 | :--- |
-[XOR Cipher Challenge](./XOR-Cipher-Challenge) | `solve.py` |
+| [XOR Cipher Challenge](./XOR-Cipher-Challenge) |
 
 ---
-*Connect with me on [LinkedIn](YOUR_LINK_HERE) or follow my progress on [TryHackMe](YOUR_THM_PROFILE_LINK).*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/min-thant-tun-b76111294/) or follow my progress on [TryHackMe](https://tryhackme.com/p/MinThantTun).*
