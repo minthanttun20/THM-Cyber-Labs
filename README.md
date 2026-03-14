@@ -9,9 +9,9 @@ This repository contains my solutions, scripts, and notes for various TryHackMe 
 
 ## 🚀 Featured Write-ups
 
-| Date | Category | Room Name | Solution Script |
-| :--- | :--- | :--- | :--- |
-| 2026-03 | Cryptography | [XOR Cipher Challenge](./Cryptography/XOR-Cipher-Challenge) | `solve.py` |
+Room Name | Solution Script |
+| :--- |
+[XOR Cipher Challenge](./XOR-Cipher-Challenge) | `solve.py` |
 
 ---
 *Connect with me on [LinkedIn](YOUR_LINK_HERE) or follow my progress on [TryHackMe](YOUR_THM_PROFILE_LINK).*
