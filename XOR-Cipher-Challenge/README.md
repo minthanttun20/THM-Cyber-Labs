@@ -24,3 +24,4 @@ Using the recovered key `SNEAKY`, I used CyberChef to decode the full hex string
 
 ![CyberChef Decryption](./img/cyberchef_output.png)
 
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/min-thant-tun-b76111294/) or follow my progress on [TryHackMe](https://tryhackme.com/p/MinThantTun).*
