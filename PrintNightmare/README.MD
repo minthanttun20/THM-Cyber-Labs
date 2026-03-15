@@ -34,8 +34,8 @@ Identifying the DLL
 
 7. What was the process ID for the elevated command prompt? What was its parent process?    
 ![Output](./img/q7.png)
-* Add: Process Name — is — cmd.exe — then click Add.
-* Add: Operation — is — Process Start — then click Add
+* Add: Process Name is ```cmd.exe``` then click Add.
+* Add: Operation is ```Process Start``` then click Add
     ![Output](./img/q8.png)
 * Add: PID 2640 Filter  
 
