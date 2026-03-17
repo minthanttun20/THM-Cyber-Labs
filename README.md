@@ -8,6 +8,7 @@ This repository contains my solutions, scripts, and notes for various TryHackMe 
 | :--- | :--- | :--- |
 | 1. | [XOR Cipher Challenge](./XOR-Cipher-Challenge) | Exploiting the `ORDER:` header vulnerability to recover secret keys. |
 | 2. | [Print Nightmare](./PrintNightmare) | (CVE-2021-1675) Forensic Analysis |
+| 3. | [NetSec Challenge](./netSec) | (CVE-2021-1675) Forensic Analysis |
 
 
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/min-thant-tun-b76111294/) or follow my progress on [TryHackMe](https://tryhackme.com/p/MinThantTun).*
