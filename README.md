@@ -12,5 +12,7 @@ This repository contains my solutions, scripts, and notes for various TryHackMe 
 | 4. | [Vulnerability Capstone](./Vulnerability_Capstone) | (CVE-2018-16763) FuelCMS 1.4.1 Remote Code Execution (RCE) |
 | 5. | [Dev Diaries](./DevDiaries/) | |
 | 6. | [Linux Privilege Escalation](./privilege_escalation) |  From enumeration to exploitation |
+| 7. | [Ignite](./Ignite) |  |
+| 8. | [Immediate Nmap](./ImmediateNmap) |  From enumeration to exploitation |
 
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/min-thant-tun-b76111294/) or follow my progress on [TryHackMe](https://tryhackme.com/p/MinThantTun).*
