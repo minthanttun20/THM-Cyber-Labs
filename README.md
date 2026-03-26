@@ -13,7 +13,8 @@ This repository contains my solutions, scripts, and notes for various TryHackMe 
 | 5 | [Dev Diaries](./DevDiaries/) | Investigating developer misconfigurations and exposed sensitive files |
 | 6 | [Linux Privilege Escalation](./privilege_escalation) | From enumeration to exploitation — escalating privileges on Linux systems |
 | 7 | [Ignite](./Ignite) | (CVE-2018-16763) FuelCMS RCE exploitation and post-exploitation credential harvesting |
-| 8 | [Immediate Nmap](./ImmediateNmap) | Nmap-based network enumeration and service discovery techniques |
+| 6. | [Linux Privilege Escalation](./privilege_escalation) |  From enumeration to exploitation |
+| 8 | [Glitch](./GLITCH) |  |
  
 ---
  
