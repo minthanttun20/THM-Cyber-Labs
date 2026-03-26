@@ -14,7 +14,7 @@ This repository contains my solutions, scripts, and notes for various TryHackMe 
 | 6 | [Linux Privilege Escalation](./privilege_escalation) | From enumeration to exploitation — escalating privileges on Linux systems |
 | 7 | [Ignite](./Ignite) | (CVE-2018-16763) FuelCMS RCE exploitation and post-exploitation credential harvesting |
 | 6. | [Linux Privilege Escalation](./privilege_escalation) |  From enumeration to exploitation |
-| 8 | [Glitch](./GLITCH) |  |
+| 8 | [Glitch](./GLITCH) | Node Deserialization Attack |
  
 ---
  
